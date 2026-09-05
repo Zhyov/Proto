@@ -4,6 +4,7 @@ proto: pi
 meaning: good
 pos: adjective
 stage: Proto
+current: pi
 ---
 ## Meaning
 good

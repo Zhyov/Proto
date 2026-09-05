@@ -4,6 +4,7 @@ proto: ik
 meaning: PROX
 pos: function
 stage: Proto
+current: ik
 ---
 ## Meaning
 PROX

@@ -4,6 +4,7 @@ proto: kan
 meaning: small
 pos: adjective
 stage: Proto
+current: kan
 ---
 ## Meaning
 small

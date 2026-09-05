@@ -4,6 +4,7 @@ proto: bos
 meaning: mouth
 pos: noun
 stage: Proto
+current: bos
 ---
 ## Meaning
 mouth

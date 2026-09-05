@@ -4,6 +4,7 @@ proto: lew
 meaning: see
 pos: verb
 stage: Proto
+current: lew
 ---
 ## Meaning
 see

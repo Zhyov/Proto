@@ -4,6 +4,7 @@ proto: el
 meaning: 2SG
 pos: function
 stage: Proto
+current: el
 ---
 ## Meaning
 2SG

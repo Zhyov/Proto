@@ -4,6 +4,7 @@ proto: pel
 meaning: stone
 pos: noun
 stage: Proto
+current: pel
 ---
 ## Meaning
 stone

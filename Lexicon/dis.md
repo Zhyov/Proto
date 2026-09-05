@@ -4,6 +4,7 @@ proto: dis
 meaning: eat
 pos: verb
 stage: Proto
+current: dis
 ---
 ## Meaning
 eat

@@ -4,6 +4,7 @@ proto: nud
 meaning: eye
 pos: noun
 stage: Proto
+current: nud
 ---
 ## Meaning
 eye

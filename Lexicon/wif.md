@@ -4,6 +4,7 @@ proto: wif
 meaning: nose
 pos: noun
 stage: Proto
+current: wif
 ---
 ## Meaning
 nose

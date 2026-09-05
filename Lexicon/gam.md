@@ -4,6 +4,7 @@ proto: gam
 meaning: go
 pos: verb
 stage: Proto
+current: gam
 ---
 ## Meaning
 go
