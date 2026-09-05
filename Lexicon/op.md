@@ -4,12 +4,14 @@ proto: op
 meaning: DIST
 pos: function
 stage: Proto
-current: op
+current: of
 ---
 ## Meaning
 DIST
+
 ## History
 
 | Stage | Form | Change |
 | ----- | ---- | ------ |
-| Proto | op   |        |
+| Proto | op |  |
+| Proto | of | [[001]] |

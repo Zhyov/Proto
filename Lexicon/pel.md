@@ -4,12 +4,14 @@ proto: pel
 meaning: stone
 pos: noun
 stage: Proto
-current: pel
+current: bel
 ---
 ## Meaning
 stone
+
 ## History
 
 | Stage | Form | Change |
 | ----- | ---- | ------ |
-| Proto | pel  |        |
+| Proto | pel |  |
+| Proto | bel | [[001]] |

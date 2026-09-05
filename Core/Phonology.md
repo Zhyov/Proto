@@ -1,10 +1,4 @@
-## Constants
-
-|             | Bilabial | Alveolar | Velar |
-| ----------- | -------- | -------- | ----- |
-| Plosive     | p b      | t d      | k g   |
-| Nasal       | m        | n        |       |
-| Fricative   |          | s        |       |
-| Approximant | w        | l r      |       |
-## Vowels
+## Consonants $ C
+p b t d k g m n s w l r
+## Vowels $ V
 a e i o u

@@ -4,12 +4,14 @@ proto: pi
 meaning: good
 pos: adjective
 stage: Proto
-current: pi
+current: bi
 ---
 ## Meaning
 good
+
 ## History
 
 | Stage | Form | Change |
 | ----- | ---- | ------ |
-| Proto | pi   |        |
+| Proto | pi |  |
+| Proto | bi | [[001]] |

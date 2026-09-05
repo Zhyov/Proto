@@ -4,7 +4,7 @@ proto: kus
 meaning: person
 pos: noun
 stage: Proto
-current: kus
+current: fus
 ---
 ## Meaning
 person
@@ -13,4 +13,5 @@ person
 
 | Stage | Form | Change |
 | ----- | ---- | ------ |
-| Proto | kus  |        |
+| Proto | kus |  |
+| Proto | fus | [[001]] |
